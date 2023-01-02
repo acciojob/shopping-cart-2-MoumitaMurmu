@@ -1,2 +1,10 @@
+body {
+  margin: 20px;
+  font-family: sans-serif;
+}
 
+table {
+  border: 2px solid black;
+  margin: 20px 0;
+}
 /* Your CSS Code here. */
